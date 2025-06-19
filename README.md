@@ -9,4 +9,8 @@
 【☷】 → logpath.sync()，☷日志持久层
 【☱】 → 对话引擎，命令反馈模块
 
+
+unit
 i = 256ⁿ=65536       windows Linux unix nginx  如果看懂了i参数 是不是就理解了 这些系统的构造
+
+altweb.it
