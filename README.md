@@ -15,7 +15,7 @@ i = 256ⁿ=65536       windows Linux unix nginx  如果看懂了i参数 是不�
 
 
 
-ini
+ini  php的秘密
 !u!  unit
 
 altweb.it
