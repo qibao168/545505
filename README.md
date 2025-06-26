@@ -15,8 +15,7 @@ i = 256ⁿ=65536       windows Linux unix nginx  如果看懂了i参数 是不�
 
 
 
-ini  php的秘密
-!u!  unit
+
 l1聊天者 l2推理者 l3策划者 l4部署者 l5执行者
 
 
