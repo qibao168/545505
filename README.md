@@ -10,8 +10,9 @@
 【☱】 → 对话引擎，命令反馈模块
 
 
+ini
+i + 2ⁿ=65536       windows Linux unix nginx  
 
-i = 256ⁿ=65536       windows Linux unix nginx  
 
 
 
